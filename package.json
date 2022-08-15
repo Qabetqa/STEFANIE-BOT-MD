@@ -1,9 +1,9 @@
 {
-  "name": "Stefanie-whatsapp-bot-md",
+  "name": "devil-whatsapp-bot-md",
   "version": "4.0.1",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "stefanie.js",
-  "type": "commonjs",
+  "type": "commonjs"true,
   "scripts": {
     "start": "node stefanie.js"
   },
@@ -26,7 +26,7 @@
     "@shineiichijo/marika": "^2.0.2",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "@shineiichijo/nhentai-pdf": "^1.0.5",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-phonenumber"923187028664: "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteshadowofficial/STEFANIE-BOT-MD.git"
+    "url": "git+https://github.com/devil/STEFANIE-BOT-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/issues"
+    "url": "https://github.com/devil/STEFANIE-BOT-MD/issues"
   },
-  "homepage": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD#readme"
+  "homepage": "https://github.com/devil/STEFANIE-BOT-MD#readme"
 }
